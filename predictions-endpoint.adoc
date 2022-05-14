@@ -65,7 +65,7 @@ Content-Length: 312
 {"sex":"F","age":20,"address":"U","famsize":"GT3","Pstatus":"A","Medu":4,"Fedu":1,"traveltime":1,"studytime":2,"failures":0,"schoolsup":"no","famsup":"yes","paid":"no","absences":0,"activities":"no","higher":"yes","internet":"yes","romantic":"no","famrel":2,"freetime":3,"goout":1,"Dalc":2,"Walc":2,"health":4}
 ....
 
-*Python *
+*Python*
 ....
 import requests
 
